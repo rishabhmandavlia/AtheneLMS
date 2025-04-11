@@ -96,5 +96,3 @@ The project underwent various levels of testing [64]:
 *   **Test Case Reports:** Functional testing was conducted for key features like login, registration, category management, course management, and quiz management [65-75].
 *   **Database Testing:** The accuracy of data insertion for teachers, students, admins, categories, and learning materials was tested [75-82].
 *   **Automated Testing:** Automated tests were implemented for registration, login, category, course, quiz creation, and question addition functionalities [82, 83].
-
-# AtheneLMS
