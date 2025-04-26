@@ -99,12 +99,6 @@
 
 ---
 
-### 📎 References
-
-Detailed references are provided for all modules, tests, and schema components [1–83].
-
----
-
 ### 📂 Repository Info
 
 Developed by **Rishabh Mandavlia** | BCA Project | `Athene LMS`
